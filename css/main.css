@@ -18,6 +18,7 @@ body {
     height: 100vh;
     background: #912a1f;
     right: 30px;
+    height: -webkit-fill-available;
 }
 
 .line-l {
@@ -26,6 +27,7 @@ body {
     height: 100vh;
     background: #912a1f;
     left: 30px;
+    height: -webkit-fill-available;
 }
 
 .line-mr {
@@ -35,6 +37,7 @@ body {
     background: #912a1f;
     left: 55vw;
     z-index: 0;
+    height: -webkit-fill-available;
 }
 
 .line-ml {
@@ -43,6 +46,7 @@ body {
     height: 100vh;
     background: #912a1f;
     left: 45vw;
+    height: -webkit-fill-available;
 }
 
 .line-pmr {
@@ -51,6 +55,7 @@ body {
     height: 100vh;
     background: #912a1f;
     right: 280px;
+    height: -webkit-fill-available;
 }
 
 .line-pml {
@@ -59,6 +64,7 @@ body {
     height: 100vh;
     background: #912a1f;
     right: 400px;
+    height: -webkit-fill-available;
 }
 
 .line-t {
@@ -83,6 +89,7 @@ body {
     height: 100vh;
     background: #912a1f;
     left: 200px;
+    height: -webkit-fill-available;
 }
 
 .line-lmu {
@@ -92,6 +99,7 @@ body {
     background: #912a1f;
     left: 300px;
     z-index: 1;
+    height: -webkit-fill-available;
 }
 
 .line-tb {
@@ -2120,7 +2128,6 @@ footer p {
     .content-privacy ul li {
         margin-top: 0px;
     }
-
     .menu {
         top: 6vh;
     }
