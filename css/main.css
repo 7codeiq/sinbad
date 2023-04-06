@@ -2147,4 +2147,10 @@ footer p {
         margin-top: 15px;
         margin-right: 10px;
     }
+    .flex {
+        justify-content: center;
+    }
+    .btn {
+        font-weight: 500;
+    }
 }
